@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class App{
     
-    /*@Test
+    @Test
     public static void main(String[]args){
         
         System.out.println("Pruebas Selenium");
@@ -56,5 +56,5 @@ public class App{
         WebDriver driver = new ChromeDriver();
         driver.get("https://es.Wikipedia.org/");
         driver.get("src/index.html");
-    }*/
+    }
 }
